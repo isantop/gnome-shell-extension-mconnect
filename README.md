@@ -49,7 +49,7 @@ installed. Optional features and their requirements include:
 **Google Contacts Auto-complete in SMS Application**
 * Gnome Online Accounts with at least one Google account
 * Gnome Online Accounts GIR (gir1.2-goa-1.0)
-* GData GIR (gir-gdata-0.0)
+* GData GIR (gir1.2-gdata-0.0)
 
 **Nautilus Integration**
 * Nautilus Python Bindings (python-nautilus)
